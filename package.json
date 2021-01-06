@@ -18,7 +18,7 @@
     "@types/yup": "^0.29.2",
     "@unform/core": "^2.1.0",
     "@unform/mobile": "^2.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~37.0.3",
     "expo-font": "~8.1.0",
     "expo-linear-gradient": "~8.1.0",
